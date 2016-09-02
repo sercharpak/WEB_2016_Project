@@ -1,0 +1,1 @@
+This folder contains the JAVA implementation for the server.

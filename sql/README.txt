@@ -1,0 +1,1 @@
+This folder contains the MySQL DB for the project.
